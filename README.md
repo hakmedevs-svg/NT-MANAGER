@@ -12,7 +12,7 @@
 
 <p align="center"><strong>Your Development Environment. Simplified.</strong><br>One organized workspace for project workflows, Android tooling, signing, interface customization, and application analysis.</p>
 
-> **Project status:** This repository is currently a documentation-first project. It contains no application source code, installable build, or published release yet. The capabilities described below represent the project direction—not features verified as implemented. See [Releases](RELEASES.md) for the current release status.
+> **Project status:** An APK named [`NT.MANAGER.apk`](https://github.com/hakmedevs-svg/NT-MANAGER/releases/tag/untagged-e141f93576a0dfda6ab3) is attached to the GitHub release. GitHub currently marks that release as a **draft**; it has no version tag or publication date yet, so public download availability is not confirmed. This repository contains no application source code or build configuration. The capabilities described below represent the project direction—not features verified as implemented. See [Releases](RELEASES.md) for current details.
 
 ## Table of contents
 
@@ -29,9 +29,9 @@
 
 ## About
 
-NT MANAGER is an early-stage development utility concept by **Hakmedev**. Its goal is to make common project and Android application workflows easier to navigate through a modern, organized interface—without requiring developers to operate every task manually from a terminal.
+NT MANAGER is an early-stage development utility by **Hakmedev**. Its goal is to make common project and Android application workflows easier to navigate through a modern, organized interface—without requiring developers to operate every task manually from a terminal.
 
-The repository currently provides project documentation only. No programming language, application framework, supported operating system, or working feature set can yet be confirmed from the available files. Documentation distinguishes the intended workflows from functionality that is actually available; this project makes no claim of universal compatibility or error-free builds.
+An APK asset is attached to the project's GitHub release. The release is currently a draft without a version tag or publication date. The repository itself contains project documentation and branding, but no application source code or build configuration. The application's programming language, framework, supported operating systems, and verified feature set cannot be confirmed from the available source files. Documentation distinguishes intended workflows from functionality verified in the repository; this project makes no claim of universal compatibility or error-free builds.
 
 ## Product direction
 
@@ -39,7 +39,7 @@ The product is envisioned as a unified workspace for project setup and managemen
 
 ### Feature areas
 
-The following are **planned product capabilities**. They are not represented as implemented in the current repository.
+The following are **planned product capabilities**. They are not represented as implemented in the source files currently available in this repository.
 
 #### Advanced build system
 
@@ -89,20 +89,20 @@ The proposed home screen uses clear navigation, readable typography, consistent 
 
 ## Installation
 
-There is no installable application or source build in this repository at this time. The repository currently contains documentation and the MIT license. To explore the project, browse the [feature overview](docs/FEATURES.md), [installation status](docs/INSTALLATION.md), and [build guide](docs/BUILD_GUIDE.md). Do not use third-party downloads presented as NT MANAGER releases unless they are published through this repository's official [Releases page](https://github.com/hakmedevs-svg/NT-MANAGER/releases).
+An APK named [`NT.MANAGER.apk`](https://github.com/hakmedevs-svg/NT-MANAGER/releases/tag/untagged-e141f93576a0dfda6ab3) is attached to the GitHub release. The release is currently marked as a draft, so a public download is not confirmed. No version tag, publication date, minimum Android version, or device requirements are available in its metadata. See [installation guidance](docs/INSTALLATION.md) and review the release page before installing. Do not use third-party downloads presented as NT MANAGER releases.
 
 ## Documentation
 
 - [Feature overview](docs/FEATURES.md) — proposed capabilities and important limitations.
-- [Installation](docs/INSTALLATION.md) — current availability and future installation guidance.
-- [Build guide](docs/BUILD_GUIDE.md) — current build status and responsible future workflow guidance.
-- [Release history](RELEASES.md) — published release status and release-note format.
+- [Installation](docs/INSTALLATION.md) — APK release status and current installation information.
+- [Build guide](docs/BUILD_GUIDE.md) — APK availability and source build status.
+- [Release history](RELEASES.md) — current APK asset and release status.
 - [Changelog](CHANGELOG.md) — repository-level documentation changes.
 - [Contributing](CONTRIBUTING.md) — how to contribute as the project develops.
 
 ## Releases and version history
 
-No versioned releases are currently published. The repository's initial commit is not a product release, so no release number, date, downloads, or compatibility claims are inferred from it. Check [RELEASES.md](RELEASES.md) for the release register and the GitHub [Releases page](https://github.com/hakmedevs-svg/NT-MANAGER/releases) for official binaries when available.
+An APK is attached to the NT MANAGER GitHub release, which GitHub currently marks as a draft. The version number, publication date, compatibility information, and detailed change notes are not provided in the release metadata, so they are not guessed here. Review [RELEASES.md](RELEASES.md) and the [GitHub release page](https://github.com/hakmedevs-svg/NT-MANAGER/releases/tag/untagged-e141f93576a0dfda6ab3) for its current status and asset.
 
 ## Contributing
 

@@ -1,20 +1,51 @@
 # Releases
 
-## Release status
+## Current APK
 
-**No published NT MANAGER releases are available yet.** The repository's initial commit does not establish a product version or a released application. No release date, download, compatibility statement, or implemented feature set is asserted here. Check the official [GitHub Releases page](https://github.com/hakmedevs-svg/NT-MANAGER/releases) for future published artifacts.
+An Android package, **`NT.MANAGER.apk`**, has been uploaded to the NT MANAGER GitHub release page:
+
+[Open the NT MANAGER release and APK asset](https://github.com/hakmedevs-svg/NT-MANAGER/releases/tag/untagged-e141f93576a0dfda6ab3)
+
+**Important:** GitHub currently marks this release as a **draft** and it has no version tag or publication date. Draft release assets may not be publicly downloadable. Publish the release and assign its verified version tag and release date in GitHub to make it an official public release. The version number, release date, compatibility details, and change notes have not been provided here, so they are intentionally not guessed.
+
+## Release register
+
+| Version | Name | Status | Date | Official asset |
+|---|---|---|---|---|
+| Not specified | NT MANAGER | Draft on GitHub | Not published | [`NT.MANAGER.apk`](https://github.com/hakmedevs-svg/NT-MANAGER/releases/tag/untagged-e141f93576a0dfda6ab3) |
+
+Newer verified releases should be listed first. Update this register when the current draft is published or a versioned release is created.
 
 ## Release notes
 
-A version will be listed here only after it has actually been published. Future entries should be ordered newest first and include a verified version number, release name, publication date, status, changes, fixes, compatibility details, and official download links when available.
+### NT MANAGER — version and date pending
 
-### Future release entry template
+- **Release status:** Draft on GitHub; publication not confirmed.
+- **Version:** Not specified (no tag is assigned).
+- **Release date:** Not published.
+- **Download:** `NT.MANAGER.apk` is attached to the [GitHub release](https://github.com/hakmedevs-svg/NT-MANAGER/releases/tag/untagged-e141f93576a0dfda6ab3). Its public availability depends on publishing the draft.
+- **Compatibility:** Not provided; consult the release details and test on a suitable device before use.
 
-> Replace every placeholder with verified release information before publishing. Remove sections that do not apply. Do not publish placeholder links or unverified compatibility claims.
+**What's New**
 
-#### NT MANAGER vX.Y.Z — [Release name]
+- An Android APK has been uploaded to the GitHub release.
+- Detailed release notes have not been provided.
 
-- **Release date:** [YYYY-MM-DD, as shown on the published release]
+**Improvements**
+
+- Not specified.
+
+**Bug Fixes**
+
+- Not specified.
+
+## Future release template
+
+Use this template for subsequent releases, replacing placeholders only with verified information. List releases newest first and do not publish placeholder downloads or unsupported compatibility claims.
+
+### NT MANAGER vX.Y.Z — [Release name]
+
+- **Release date:** [YYYY-MM-DD]
 - **Release status:** [Pre-release / Stable / Security update]
 - **Compatibility:** [Verified platforms, requirements, and supported project types]
 - **Downloads:** [Official release asset links, if available]
@@ -29,4 +60,4 @@ A version will be listed here only after it has actually been published. Future 
 
 **Bug Fixes**
 
-- [Verified fix, or state "None listed." ]
+- [Verified fix, or state "None listed."]
